@@ -1,0 +1,154 @@
+{
+  "intents": [
+    {
+      "tag": "chao_hoi",
+      "patterns": ["xin chào", "chào", "hello", "hi", "hey", "alo", "chào bạn", "bắt đầu"],
+      "responses": ["Xin chào! Mình là chatbot của Highlands Coffee ☕ Mình có thể giúp bạn tra cứu thông tin về đồ uống, giá cả, thành phần và nhiều hơn nữa. Bạn cần hỗ trợ gì không?", "Chào bạn! Rất vui được phục vụ bạn tại Highlands Coffee 🌿 Bạn muốn biết thông tin gì về đồ uống của chúng mình?"]
+    },
+    {
+      "tag": "tam_biet",
+      "patterns": ["tạm biệt", "bye", "goodbye", "hẹn gặp lại", "cảm ơn nhé", "thôi nhé"],
+      "responses": ["Tạm biệt bạn! Hẹn gặp lại tại Highlands Coffee ☕🌿", "Cảm ơn bạn đã ghé thăm. Chúc bạn một ngày tuyệt vời! 😊"]
+    },
+    {
+      "tag": "cam_on",
+      "patterns": ["cảm ơn", "thanks", "thank you", "cảm ơn bạn", "cảm ơn nhiều"],
+      "responses": ["Không có gì! Mình luôn sẵn sàng hỗ trợ bạn 😊", "Rất vui được giúp bạn! Nếu có thêm câu hỏi cứ hỏi mình nhé ☕"]
+    },
+    {
+      "tag": "danh_sach_menu",
+      "patterns": ["menu", "thực đơn", "có những món gì", "danh sách đồ uống", "bán những gì", "có gì uống", "cho xem menu"],
+      "responses": ["Highlands Coffee có các nhóm đồ uống sau:\n\n☕ Cà phê: Cà phê đen, Cà phê sữa, Bạc xỉu, Cappuccino, Latte, Americano\n🧋 Trà: Trà Oolong, Trà Đào, Trà Vải, Trà Xanh Tây Bắc\n🥤 Freeze: Trà Xanh Freeze, Cà Phê Freeze, Chocolate Freeze\n🍵 Trà sữa: Trà Sữa Oolong, Trà Sữa Khoai Môn\n🧃 Khác: Sinh tố, Nước ép, Soda\n\nBạn muốn biết thêm về món nào?"]
+    },
+    {
+      "tag": "gia_ca_phe_den",
+      "patterns": ["giá cà phê đen", "cà phê đen bao nhiêu", "cà phê đen giá", "giá café đen"],
+      "responses": ["☕ Cà Phê Đen tại Highlands Coffee:\n- Size M: 39.000đ\n- Size L: 45.000đ\n\nCà phê đen được pha từ hạt cà phê Robusta và Arabica rang đặc trưng của Highlands, vị đắng đậm, thơm nồng."]
+    },
+    {
+      "tag": "gia_ca_phe_sua",
+      "patterns": ["giá cà phê sữa", "cà phê sữa bao nhiêu", "cà phê sữa giá", "cafe sữa giá bao nhiêu"],
+      "responses": ["☕ Cà Phê Sữa tại Highlands Coffee:\n- Size M: 45.000đ\n- Size L: 52.000đ\n\nCà phê sữa kết hợp hài hòa giữa cà phê đậm đà và sữa béo ngậy, phù hợp cho những bạn không thích vị đắng thuần túy."]
+    },
+    {
+      "tag": "gia_bac_xiu",
+      "patterns": ["giá bạc xỉu", "bạc xỉu bao nhiêu", "bạc xỉu giá"],
+      "responses": ["☕ Bạc Xỉu tại Highlands Coffee:\n- Size M: 45.000đ\n- Size L: 52.000đ\n\nBạc xỉu là thức uống có nhiều sữa hơn cà phê, vị ngọt nhẹ, thơm mùi sữa – thích hợp cho những ai không quen uống cà phê đậm."]
+    },
+    {
+      "tag": "gia_cappuccino",
+      "patterns": ["giá cappuccino", "cappuccino bao nhiêu", "cappuccino giá"],
+      "responses": ["☕ Cappuccino tại Highlands Coffee:\n- Size M: 55.000đ\n- Size L: 65.000đ\n\nCappuccino gồm espresso, sữa nóng và lớp foam mịn béo ngậy phía trên, hương vị cân bằng giữa đắng và béo."]
+    },
+    {
+      "tag": "gia_latte",
+      "patterns": ["giá latte", "latte bao nhiêu", "latte giá", "cafe latte"],
+      "responses": ["☕ Latte tại Highlands Coffee:\n- Size M: 55.000đ\n- Size L: 65.000đ\n\nLatte là sự kết hợp giữa espresso và nhiều sữa nóng, vị nhẹ nhàng, béo mịn, thích hợp cho người mới bắt đầu uống cà phê."]
+    },
+    {
+      "tag": "gia_americano",
+      "patterns": ["giá americano", "americano bao nhiêu", "americano giá"],
+      "responses": ["☕ Americano tại Highlands Coffee:\n- Size M: 49.000đ\n- Size L: 55.000đ\n\nAmericano là espresso pha loãng với nước nóng, vị đắng nhẹ hơn espresso nhưng vẫn giữ được hương thơm đặc trưng của cà phê."]
+    },
+    {
+      "tag": "gia_tra_oolong",
+      "patterns": ["giá trà oolong", "trà oolong bao nhiêu", "oolong giá"],
+      "responses": ["🍵 Trà Oolong tại Highlands Coffee:\n- Size M: 49.000đ\n- Size L: 55.000đ\n\nTrà Oolong được ủ từ lá trà cao cấp, vị thanh tao, hậu ngọt tự nhiên, không dùng đường nhân tạo."]
+    },
+    {
+      "tag": "gia_tra_dao",
+      "patterns": ["giá trà đào", "trà đào bao nhiêu", "trà đào giá"],
+      "responses": ["🍑 Trà Đào Cam Sả tại Highlands Coffee:\n- Size M: 55.000đ\n- Size L: 65.000đ\n\nSự kết hợp độc đáo giữa trà, đào thơm, cam tươi và sả, mang lại hương vị tươi mát và thơm dịu."]
+    },
+    {
+      "tag": "gia_tra_vai",
+      "patterns": ["giá trà vải", "trà vải bao nhiêu", "trà vải giá"],
+      "responses": ["🍈 Trà Vải tại Highlands Coffee:\n- Size M: 55.000đ\n- Size L: 65.000đ\n\nTrà vải thơm mát với hương vị trái vải tự nhiên, thanh ngọt dễ uống, thích hợp cho những ngày nắng nóng."]
+    },
+    {
+      "tag": "gia_freeze_tra_xanh",
+      "patterns": ["giá trà xanh freeze", "trà xanh freeze bao nhiêu", "freeze trà xanh"],
+      "responses": ["🥤 Trà Xanh Freeze tại Highlands Coffee:\n- Size M: 65.000đ\n- Size L: 75.000đ\n\nTrà Xanh Freeze là đồ uống lạnh xay nhuyễn từ trà xanh, đá và sữa, thơm mát và béo ngậy, rất phổ biến vào mùa hè."]
+    },
+    {
+      "tag": "gia_freeze_ca_phe",
+      "patterns": ["giá cà phê freeze", "cà phê freeze bao nhiêu", "freeze cafe"],
+      "responses": ["🥤 Cà Phê Freeze tại Highlands Coffee:\n- Size M: 65.000đ\n- Size L: 75.000đ\n\nCà Phê Freeze được xay từ cà phê đậm đà, đá và sữa, vừa mang hương vị cà phê quen thuộc vừa mát lạnh sảng khoái."]
+    },
+    {
+      "tag": "gia_tra_sua",
+      "patterns": ["giá trà sữa", "trà sữa bao nhiêu", "trà sữa giá"],
+      "responses": ["🧋 Trà Sữa tại Highlands Coffee:\n- Trà Sữa Oolong Size M: 55.000đ | Size L: 65.000đ\n- Trà Sữa Khoai Môn Size M: 55.000đ | Size L: 65.000đ\n\nTrà sữa Highlands được pha từ trà thượng hạng kết hợp với sữa tươi, hương vị thơm ngon và không quá ngọt."]
+    },
+    {
+      "tag": "thanh_phan_ca_phe",
+      "patterns": ["thành phần cà phê", "cà phê làm từ gì", "nguyên liệu cà phê", "cà phê có gì"],
+      "responses": ["☕ Thành phần cà phê tại Highlands Coffee:\n\nHạt cà phê Highlands được blend từ hai loại:\n- Robusta: chiếm khoảng 70%, cho vị đắng đậm và crema dày\n- Arabica: chiếm khoảng 30%, cho hương thơm và vị chua nhẹ\n\nCà phê được rang theo công thức riêng, không pha trộn tạp chất. Tùy loại đồ uống sẽ thêm sữa đặc, sữa tươi hoặc kem tươi."]
+    },
+    {
+      "tag": "thanh_phan_tra",
+      "patterns": ["thành phần trà", "trà làm từ gì", "nguyên liệu trà oolong", "trà có gì"],
+      "responses": ["🍵 Thành phần trà tại Highlands Coffee:\n\n- Lá trà Oolong: thu hái từ vùng trà Thái Nguyên và Lâm Đồng\n- Nước: được lọc tinh khiết và ủ ở nhiệt độ chuẩn\n- Không dùng hương liệu nhân tạo\n\nCác loại trà trái cây (trà đào, trà vải) còn có thêm syrup trái cây tự nhiên và trái cây tươi."]
+    },
+    {
+      "tag": "cong_dung_ca_phe",
+      "patterns": ["uống cà phê có lợi gì", "cà phê có tác dụng gì", "công dụng cà phê", "cà phê tốt không"],
+      "responses": ["☕ Lợi ích của cà phê:\n\n✅ Tăng sự tập trung và tỉnh táo nhờ caffeine\n✅ Cải thiện hiệu suất thể chất\n✅ Chứa chất chống oxy hóa tốt cho cơ thể\n✅ Hỗ trợ giảm nguy cơ mắc bệnh tiểu đường type 2\n\n⚠️ Lưu ý: Không nên uống quá 2-3 ly/ngày và tránh uống vào buổi tối."]
+    },
+    {
+      "tag": "cong_dung_tra",
+      "patterns": ["uống trà có lợi gì", "trà có tác dụng gì", "công dụng trà", "trà oolong tốt không", "trà tốt không"],
+      "responses": ["🍵 Lợi ích của trà:\n\n✅ Chứa nhiều chất chống oxy hóa (polyphenol)\n✅ Hỗ trợ giảm cân và tăng trao đổi chất\n✅ Làm dịu thần kinh, giảm stress\n✅ Tốt cho tim mạch và hệ tiêu hóa\n✅ Ít caffeine hơn cà phê, phù hợp uống buổi tối\n\nTrà Oolong đặc biệt được biết đến với công dụng hỗ trợ giảm mỡ máu."]
+    },
+    {
+      "tag": "goi_y_sang",
+      "patterns": ["uống gì buổi sáng", "gợi ý đồ uống buổi sáng", "sáng nên uống gì", "đồ uống cho buổi sáng"],
+      "responses": ["☀️ Gợi ý đồ uống buổi sáng tại Highlands:\n\n1. ☕ Cà Phê Đen – Giúp tỉnh táo, bắt đầu ngày mới tràn đầy năng lượng\n2. ☕ Cà Phê Sữa – Vừa ngon vừa no nhẹ cho buổi sáng bận rộn\n3. 🍵 Trà Oolong – Nhẹ nhàng, thanh mát, tốt cho sức khỏe\n\nBạn muốn biết thêm về món nào không?"]
+    },
+    {
+      "tag": "goi_y_nong",
+      "patterns": ["uống gì cho mát", "trời nóng uống gì", "gợi ý đồ uống mát", "đồ uống giải nhiệt", "uống gì mùa hè"],
+      "responses": ["🌞 Gợi ý đồ uống giải nhiệt tại Highlands:\n\n1. 🥤 Trà Xanh Freeze – Mát lạnh, thơm ngon\n2. 🥤 Cà Phê Freeze – Vừa mát vừa tỉnh ngủ\n3. 🍑 Trà Đào Cam Sả – Thanh mát, thơm trái cây\n4. 🍈 Trà Vải – Ngọt tự nhiên, rất sảng khoái\n\nTất cả đều phục vụ đá lạnh, hoàn hảo cho ngày hè!"]
+    },
+    {
+      "tag": "goi_y_lam_viec",
+      "patterns": ["uống gì khi làm việc", "đồ uống khi học bài", "uống gì tập trung", "uống gì khi mệt"],
+      "responses": ["💻 Gợi ý đồ uống khi làm việc/học bài:\n\n1. ☕ Americano – Thanh, đậm vị, giúp tập trung cao độ\n2. ☕ Latte – Vừa tỉnh táo vừa không quá đắng\n3. ☕ Cappuccino – Cân bằng giữa năng lượng và hương vị\n\nCaffeine trong cà phê giúp tăng khả năng tập trung hiệu quả 💪"]
+    },
+    {
+      "tag": "gio_mo_cua",
+      "patterns": ["giờ mở cửa", "mấy giờ mở cửa", "highlands mở cửa lúc mấy giờ", "giờ hoạt động", "đóng cửa lúc mấy giờ"],
+      "responses": ["🕐 Giờ hoạt động của Highlands Coffee:\n\n- Thứ 2 – Thứ 6: 7:00 – 22:00\n- Thứ 7 – Chủ nhật: 7:00 – 23:00\n\n⚠️ Giờ có thể thay đổi tùy theo từng chi nhánh. Bạn có thể kiểm tra trên app Highlands Coffee hoặc Google Maps để biết chính xác nhé!"]
+    },
+    {
+      "tag": "dia_chi",
+      "patterns": ["địa chỉ highlands", "highlands ở đâu", "chi nhánh highlands", "tìm cửa hàng highlands", "highlands gần đây"],
+      "responses": ["📍 Highlands Coffee có hơn 600 chi nhánh trên toàn quốc!\n\nĐể tìm chi nhánh gần nhất, bạn có thể:\n1. Truy cập website: highlandscoffee.com.vn\n2. Tìm kiếm 'Highlands Coffee' trên Google Maps\n3. Tải app Highlands Coffee và dùng tính năng tìm cửa hàng\n\nBạn đang ở khu vực nào? Mình có thể gợi ý thêm 😊"]
+    },
+    {
+      "tag": "size_do_uong",
+      "patterns": ["size đồ uống", "có size gì", "medium large là bao nhiêu", "dung tích các size", "size m l là bao nhiêu ml"],
+      "responses": ["📏 Các size đồ uống tại Highlands Coffee:\n\n- Size M (Medium): ~350ml\n- Size L (Large): ~500ml\n\nHầu hết đồ uống đều có 2 size để bạn lựa chọn theo nhu cầu. Một số món đặc biệt chỉ có 1 size cố định."]
+    },
+    {
+      "tag": "tuy_chon_them",
+      "patterns": ["có thêm topping không", "thêm trân châu được không", "tùy chọn thêm", "có đá không đường không", "ít ngọt được không"],
+      "responses": ["🎛️ Tùy chọn đồ uống tại Highlands Coffee:\n\n✅ Điều chỉnh độ ngọt: Không ngọt / Ít ngọt / Ngọt vừa / Ngọt\n✅ Điều chỉnh đá: Không đá / Ít đá / Đá bình thường\n✅ Topping thêm:\n   - Trân châu đen: +10.000đ\n   - Trân châu trắng: +10.000đ\n   - Thạch: +10.000đ\n   - Kem cheese: +15.000đ\n\nBạn chỉ cần báo nhân viên hoặc chọn trên app khi đặt hàng nhé!"]
+    },
+    {
+      "tag": "dat_hang",
+      "patterns": ["đặt hàng online", "order online", "giao hàng tận nơi", "có giao hàng không", "đặt qua app"],
+      "responses": ["📱 Đặt hàng Highlands Coffee online:\n\n1. **App Highlands Coffee** – Đặt hàng mang đi hoặc giao tận nơi\n2. **GrabFood / ShopeeFood / BeFood** – Đặt giao hàng nhanh\n3. **Website**: highlandscoffee.com.vn\n\nĐặt qua app Highlands còn được tích điểm đổi quà và nhận ưu đãi thành viên nhé! 🎁"]
+    },
+    {
+      "tag": "highlands_la_gi",
+      "patterns": ["highlands coffee là gì", "highlands coffee ở đâu", "giới thiệu highlands", "highlands coffee là của nước nào"],
+      "responses": ["☕ Về Highlands Coffee:\n\nHighlands Coffee là thương hiệu cà phê Việt Nam được thành lập năm 1999, thuộc tập đoàn Jollibee Foods Corporation.\n\n🌿 Điểm nổi bật:\n- Hơn 600 chi nhánh trên toàn quốc\n- Sử dụng hạt cà phê Việt Nam chất lượng cao\n- Phong cách không gian hiện đại, thoáng mát\n- Thực đơn đa dạng từ cà phê, trà đến đồ ăn nhẹ\n\nHighlands Coffee tự hào là một trong những chuỗi cà phê lớn nhất Việt Nam! 🇻🇳"]
+    },
+    {
+      "tag": "khong_hieu",
+      "patterns": [],
+      "responses": ["Xin lỗi, mình chưa hiểu câu hỏi của bạn 😅 Bạn có thể hỏi về:\n- Giá đồ uống (vd: 'giá cà phê sữa')\n- Thành phần (vd: 'thành phần trà oolong')\n- Gợi ý đồ uống (vd: 'uống gì buổi sáng')\n- Thông tin cửa hàng (vd: 'giờ mở cửa')\n\nMình luôn sẵn sàng hỗ trợ bạn! ☕"]
+    }
+  ]
+}
