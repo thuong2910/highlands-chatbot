@@ -12,15 +12,15 @@
       "tag": "tam_biet",
       "patterns": ["tạm biệt", "bye", "goodbye", "hẹn gặp lại", "cảm ơn nhé", "thôi nhé", "tam biet", "hen gap lai"],
       "responses": [
-        "Highlands Coffee cảm ơn và hẹn gặp lại bạn sớm nhé! Chúc bạn một ngày ngập tràn năng lượng ☕🌿",
-        "Tạm biệt bạn nhé! Đừng quên ghé Highlands khi cần một không gian thoải mái để học tập và làm việc nha! 😊"
+        "Highlands Coffee cảm ơn và hẹn gặp lại bạn sớm nhé! Chúc bạn một ngày ngập tràn năng lượng ",
+        "Tạm biệt bạn nhé! Đừng quên ghé Highlands khi cần một không gian thoải mái để học tập và làm việc nha! "
       ]
     },
     {
       "tag": "cam_on",
       "patterns": ["cảm ơn", "thanks", "thank you", "cảm ơn bạn", "cảm ơn nhiều", "cam on", "thank"],
       "responses": [
-        "Highlands rất vui được hỗ trợ bạn! Nếu cần thêm thông tin gì cứ nhắn mình nhé 🥰",
+        "Highlands rất vui được hỗ trợ bạn! Nếu cần thêm thông tin gì cứ nhắn mình nhé ",
         "Không có gì đâu ạ! Chúc bạn có một trải nghiệm tuyệt vời tại Highlands Coffee! ☕"
       ]
     },
@@ -182,14 +182,14 @@
       "tag": "goi_y_sang",
       "patterns": ["uống gì buổi sáng", "gợi ý đồ uống buổi sáng", "sáng nên uống gì", "đồ uống cho buổi sáng", "uong gi buoi sang"],
       "responses": [
-        "☀️ Chào buổi sáng! Highlands gợi ý combo nạp năng lượng cho bạn nhé:\n\n1. ☕ Phin Sữa Đá hoặc Bạc Xỉu – Thơm ngon, tỉnh táo tức thì để bắt đầu công việc.\n2. 🥖 Thêm 1 chiếc Bánh Mì Gà Xé hoặc Thịt Nướng giòn rụm là đủ dinh dưỡng cho cả buổi sáng.\n\nChúc bạn có một ngày làm việc thật hiệu quả!"
+        "Chào buổi sáng! Highlands gợi ý combo nạp năng lượng cho bạn nhé:\n\n1. ☕ Phin Sữa Đá hoặc Bạc Xỉu – Thơm ngon, tỉnh táo tức thì để bắt đầu công việc.\n2. 🥖 Thêm 1 chiếc Bánh Mì Gà Xé hoặc Thịt Nướng giòn rụm là đủ dinh dưỡng cho cả buổi sáng.\n\nChúc bạn có một ngày làm việc thật hiệu quả!"
       ]
     },
     {
       "tag": "goi_y_nong",
       "patterns": ["uống gì cho mát", "trời nóng uống gì", "gợi ý đồ uống mát", "đồ uống giải nhiệt", "uống gì mùa hè", "uong gi cho mat"],
       "responses": [
-        "🌞 Trời nóng nực thế này, giải nhiệt ngay với menu mát lạnh nhà Highlands nào:\n\n1. 🍑 Trà Thạch Đào hoặc Trà Thạch Vải – Vị trà thanh mát, thạch giòn sần sật cực sảng khoái.\n2. 🥤 Freeze Trà Xanh hoặc Freeze Chocolate – Đá xay mát lạnh mịn màng đập tan cơn nóng.\n\nBạn muốn chốt order món nào để Highlands làm ngay chuẩn bị giao nào?"
+        "Trời nóng nực thế này, giải nhiệt ngay với menu mát lạnh nhà Highlands nào:\n\n1. 🍑 Trà Thạch Đào hoặc Trà Thạch Vải – Vị trà thanh mát, thạch giòn sần sật cực sảng khoái.\n2. 🥤 Freeze Trà Xanh hoặc Freeze Chocolate – Đá xay mát lạnh mịn màng đập tan cơn nóng.\n\nBạn muốn chốt order món nào để Highlands làm ngay chuẩn bị giao nào?"
       ]
     },
     {
@@ -245,7 +245,7 @@
       "tag": "khong_hieu",
       "patterns": [],
       "responses": [
-        "Xin lỗi bạn nha, câu này nằm ngoài tầm hiểu biết của mình rồi 😅 Bạn có thể thử hỏi mình về:\n- Giá các món (Ví dụ: 'Phanti hạnh nhân bao nhiêu', 'Giá trà thạch đào')\n- Thực đơn (Ví dụ: 'Cho xem menu', 'Có bánh mì không')\n- Lợi ích đồ uống hoặc thời gian mở cửa...\n\nHighlands luôn sẵn sàng giải đáp lại giúp bạn nè! ☕"
+        "Xin lỗi bạn nha, câu này nằm ngoài tầm hiểu biết của mình rồi Bạn có thể thử hỏi mình về:\n- Giá các món (Ví dụ: 'Phanti hạnh nhân bao nhiêu', 'Giá trà thạch đào')\n- Thực đơn (Ví dụ: 'Cho xem menu', 'Có bánh mì không')\n- Lợi ích đồ uống hoặc thời gian mở cửa...\n\nHighlands luôn sẵn sàng giải đáp lại giúp bạn nè! ☕"
       ]
     }
   ]
