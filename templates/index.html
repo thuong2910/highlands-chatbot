@@ -352,10 +352,6 @@
     const row  = document.createElement('div');
     row.className = `msg-row ${role}`;
 
-    const av = document.createElement('div');
-    av.className = 'msg-av';
-    av.textContent = role === 'bot' ? '☕' : '🧑';
-
     const col    = document.createElement('div');
     col.className = 'msg-col';
 
@@ -369,7 +365,6 @@
 
     col.appendChild(bubble);
     col.appendChild(time);
-    row.appendChild(av);
     row.appendChild(col);
     messages.appendChild(row);
     scrollBottom();
@@ -417,7 +412,7 @@
       }, 300);
     } catch {
       hideTyping();
-      appendMsg('Xin lỗi, có lỗi xảy ra. Vui lòng thử lại! 😅', 'bot');
+      appendMsg('Xin lỗi, có lỗi xảy ra. Vui lòng thử lại! ', 'bot');
     }
   }
 
