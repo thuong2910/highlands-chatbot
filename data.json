@@ -4,8 +4,8 @@
       "tag": "chao_hoi",
       "patterns": ["xin chào", "chào", "hello", "hi", "hey", "alo", "chào bạn", "bắt đầu", "chao", "xin chao"],
       "responses": [
-        "Highlands Coffee xin chào! 👋 Mình có thể giúp bạn tra cứu thực đơn, giá cả, thành phần đồ uống hoặc tìm cửa hàng gần nhất. Hôm nay bạn muốn uống gì nào? ☕",
-        "Chào bạn! Rất vui được phục vụ bạn tại Highlands Coffee 🌿 Bạn cần mình tư vấn món gì cho ngày hôm nay ạ?"
+        "Highlands Coffee xin chào! Mình có thể giúp bạn tra cứu thực đơn, giá cả, thành phần đồ uống hoặc tìm cửa hàng gần nhất. Hôm nay bạn muốn uống gì nào? ",
+        "Chào bạn! Rất vui được phục vụ bạn tại Highlands Coffee  Bạn cần mình tư vấn món gì cho ngày hôm nay ạ?"
       ]
     },
     {
@@ -21,189 +21,189 @@
       "patterns": ["cảm ơn", "thanks", "thank you", "cảm ơn bạn", "cảm ơn nhiều", "cam on", "thank"],
       "responses": [
         "Highlands rất vui được hỗ trợ bạn! Nếu cần thêm thông tin gì cứ nhắn mình nhé ",
-        "Không có gì đâu ạ! Chúc bạn có một trải nghiệm tuyệt vời tại Highlands Coffee! ☕"
+        "Không có gì đâu ạ! Chúc bạn có một trải nghiệm tuyệt vời tại Highlands Coffee! "
       ]
     },
     {
       "tag": "danh_sach_menu",
       "patterns": ["menu", "thực đơn", "có những món gì", "danh sách đồ uống", "bán những gì", "có gì uống", "cho xem menu", "thuc don", "co mon gi", "cho xem menu"],
       "responses": [
-        "🌿 Highlands Coffee xin gửi bạn thực đơn phong phú hôm nay:\n\n☕ CÀ PHÊ TRUYỀN THỐNG: Phin Đen Đá, Phin Sữa Đá, Bạc Xỉu...\n🥛 PHANDI (Cà phê sữa tươi phân tầng): Phandi Hạnh Nhân, Phandi Kem Sữa, Phandi Choco.\n🍵 TRÀ HIGHLANDS: Trà Thạch Đào, Trà Thạch Vải, Trà Thanh Đào, Trà Xanh Đậu Đỏ.\n🥤 FREEZE (Đá xay béo ngậy): Freeze Trà Xanh, Freeze Chocolate, Classic Phin Freeze.\n🥖 BÁNH MÌ: Bánh mì Thịt Nướng, Bánh mì Gà Xé, Bánh mì Xíu Mại.\n\n👉 Bạn muốn mình báo giá chi tiết của nhóm món nào nhất ạ?"
+        " Highlands Coffee xin gửi bạn thực đơn phong phú hôm nay:\n\n CÀ PHÊ TRUYỀN THỐNG: Phin Đen Đá, Phin Sữa Đá, Bạc Xỉu...\n PHANDI (Cà phê sữa tươi phân tầng): Phandi Hạnh Nhân, Phandi Kem Sữa, Phandi Choco.\n TRÀ HIGHLANDS: Trà Thạch Đào, Trà Thạch Vải, Trà Thanh Đào, Trà Xanh Đậu Đỏ.\n FREEZE (Đá xay béo ngậy): Freeze Trà Xanh, Freeze Chocolate, Classic Phin Freeze.\n BÁNH MÌ: Bánh mì Thịt Nướng, Bánh mì Gà Xé, Bánh mì Xíu Mại.\n\n Bạn muốn mình báo giá chi tiết của nhóm món nào nhất ạ?"
       ]
     },
     {
       "tag": "gia_ca_phe_den",
       "patterns": ["giá cà phê đen", "cà phê đen bao nhiêu", "cà phê đen giá", "giá café đen", "ca phe den", "cf den", "cafe den bao nhieu"],
       "responses": [
-        "☕ Cà Phê Phin Đen Đá truyền thống tại Highlands Coffee:\n- Size M: 39.000đ\n- Size L: 45.000đ\n\nĐược pha từ hạt Robusta & Arabica rang xay theo công thức độc quyền, giữ trọn vị đắng đậm, hương thơm nồng nàn nguyên bản."
+        " Cà Phê Phin Đen Đá truyền thống tại Highlands Coffee:\n- Size M: 39.000đ\n- Size L: 45.000đ\n\nĐược pha từ hạt Robusta & Arabica rang xay theo công thức độc quyền, giữ trọn vị đắng đậm, hương thơm nồng nàn nguyên bản."
       ]
     },
     {
       "tag": "gia_ca_phe_sua",
       "patterns": ["giá cà phê sữa", "cà phê sữa bao nhiêu", "cà phê sữa giá", "cafe sữa giá bao nhiêu", "ca phe sua", "cf sua", "cafe sua bao nhieu"],
       "responses": [
-        "☕ Cà Phê Phin Sữa Đá (Món chạy nhất của Highlands):\n- Size M: 45.000đ\n- Size L: 52.000đ\n\nSự kết hợp hoàn hảo giữa cốt cà phê phin đậm đà truyền thống và sữa đặc ngọt béo, tạo nên hương vị lôi cuốn không thể quên."
+        " Cà Phê Phin Sữa Đá (Món chạy nhất của Highlands):\n- Size M: 45.000đ\n- Size L: 52.000đ\n\nSự kết hợp hoàn hảo giữa cốt cà phê phin đậm đà truyền thống và sữa đặc ngọt béo, tạo nên hương vị lôi cuốn không thể quên."
       ]
     },
     {
       "tag": "gia_phandi",
       "patterns": ["giá phandi", "phandi bao nhiêu", "phandi hạnh nhân", "phandi kem sữa", "phandi choco", "phan di"],
       "responses": [
-        "🥛 Dòng Phandi (Cà phê sữa tươi phân tầng ít caffeine, béo mịn) đồng giá:\n- Size M: 45.000đ\n- Size L: 55.000đ\n\nBạn có thể lựa chọn 3 hương vị cực hot:\n1. Phandi Hạnh Nhân (Thơm bùi, kèm thạch hạnh nhân)\n2. Phandi Kem Sữa (Béo ngậy ngọt ngào)\n3. Phandi Choco (Đậm đà hương sô-cô-la)"
+        " Dòng Phandi (Cà phê sữa tươi phân tầng ít caffeine, béo mịn) đồng giá:\n- Size M: 45.000đ\n- Size L: 55.000đ\n\nBạn có thể lựa chọn 3 hương vị cực hot:\n1. Phandi Hạnh Nhân (Thơm bùi, kèm thạch hạnh nhân)\n2. Phandi Kem Sữa (Béo ngậy ngọt ngào)\n3. Phandi Choco (Đậm đà hương sô-cô-la)"
       ]
     },
     {
       "tag": "gia_tra_thach_dao",
       "patterns": ["trà thạch đào", "giá trà đào thạch", "trà đào có thạch", "muốn uống trà đào", "tra dao", "tra thach dao", "tra dao bao nhieu"],
       "responses": [
-        "🍑 Trà Thạch Đào Highlands Coffee (Món trà quốc dân):\n- Size M: 45.000đ\n- Size L: 55.000đ\n\nVị trà thanh ngọt, đi kèm những miếng đào lướt vàng giòn sần sật và thạch đào dẻo dai đặc trưng đổi vị cực thích!"
+        " Trà Thạch Đào Highlands Coffee (Món trà quốc dân):\n- Size M: 45.000đ\n- Size L: 55.000đ\n\nVị trà thanh ngọt, đi kèm những miếng đào lướt vàng giòn sần sật và thạch đào dẻo dai đặc trưng đổi vị cực thích!"
       ]
     },
     {
       "tag": "gia_tra_thanh_dao",
       "patterns": ["trà thanh đào", "giá trà thanh đào", "thanh đào bao nhiêu", "tra thanh dao"],
       "responses": [
-        "🍑 Trà Thanh Đào thanh mát:\n- Size M: 39.000đ\n- Size L: 49.000đ\n\nSự kết hợp nhẹ nhàng giữa cốt trà cao cấp và hương vị đào tươi tự nhiên, là lựa chọn giải nhiệt hoàn hảo, ít ngọt và thanh nhẹ."
+        " Trà Thanh Đào thanh mát:\n- Size M: 39.000đ\n- Size L: 49.000đ\n\nSự kết hợp nhẹ nhàng giữa cốt trà cao cấp và hương vị đào tươi tự nhiên, là lựa chọn giải nhiệt hoàn hảo, ít ngọt và thanh nhẹ."
       ]
     },
     {
       "tag": "gia_tra_thach_vai",
       "patterns": ["trà thạch vải", "giá trà thạch vải", "trà vải thạch", "tra vai", "tra thach vai", "tra vai bao nhieu"],
       "responses": [
-        "🍈 Trà Thạch Vải ngọt ngào:\n- Size M: 45.000đ\n- Size L: 55.000đ\n\nSự hòa quyện tuyệt vời của trà đen thượng hạng, những quả vải mọng nước hương vị tự nhiên và thạch vải giòn dai sảng khoái."
+        " Trà Thạch Vải ngọt ngào:\n- Size M: 45.000đ\n- Size L: 55.000đ\n\nSự hòa quyện tuyệt vời của trà đen thượng hạng, những quả vải mọng nước hương vị tự nhiên và thạch vải giòn dai sảng khoái."
       ]
     },
     {
       "tag": "gia_tra_xanh_dau_do",
       "patterns": ["trà xanh đậu đỏ", "giá trà xanh đậu đỏ", "matcha đậu đỏ", "tra xanh dau do"],
       "responses": [
-        "🍵 Trà Xanh Đậu Đỏ:\n- Size M: 45.000đ\n- Size L: 55.000đ\n\nTrà xanh thơm lừng chuẩn phong cách hiện đại kết hợp lớp đậu đỏ chín mềm, ngọt bùi béo ngậy cực kỳ lạ miệng."
+        " Trà Xanh Đậu Đỏ:\n- Size M: 45.000đ\n- Size L: 55.000đ\n\nTrà xanh thơm lừng chuẩn phong cách hiện đại kết hợp lớp đậu đỏ chín mềm, ngọt bùi béo ngậy cực kỳ lạ miệng."
       ]
     },
     {
       "tag": "gia_freeze_tra_xanh",
       "patterns": ["giá trà xanh freeze", "trà xanh freeze bao nhiêu", "freeze trà xanh", "freeze matcha", "tra xanh freeze"],
       "responses": [
-        "🥤 Freeze Trà Xanh (Món đá xay bán chạy nhất):\n- Size M: 55.000đ\n- Size L: 65.000đ\n\nTrà xanh thượng hạng từ cao nguyên đem xay nhuyễn cùng đá, kết hợp thạch trà xanh giòn dai dẻo và lớp kem whipping cream béo ngậy trên cùng."
+        " Freeze Trà Xanh (Món đá xay bán chạy nhất):\n- Size M: 55.000đ\n- Size L: 65.000đ\n\nTrà xanh thượng hạng từ cao nguyên đem xay nhuyễn cùng đá, kết hợp thạch trà xanh giòn dai dẻo và lớp kem whipping cream béo ngậy trên cùng."
       ]
     },
     {
       "tag": "gia_freeze_chocolate",
       "patterns": ["freeze chocolate", "giá freeze socola", "đá xay socola bao nhiêu", "socola đá xay", "freeze socola"],
       "responses": [
-        "🍫 Freeze Chocolate (Dành cho tín đồ hảo ngọt):\n- Size M: 55.000đ\n- Size L: 65.000đ\n\nSô-cô-la đậm đà xay đá mịn mượt, kết hợp thạch sô-cô-la giòn giòn sần sật và lớp kem béo ngậy ngập tràn."
+        " Freeze Chocolate (Dành cho tín đồ hảo ngọt):\n- Size M: 55.000đ\n- Size L: 65.000đ\n\nSô-cô-la đậm đà xay đá mịn mượt, kết hợp thạch sô-cô-la giòn giòn sần sật và lớp kem béo ngậy ngập tràn."
       ]
     },
     {
       "tag": "gia_classic_phin_freeze",
       "patterns": ["classic phin freeze", "phin freeze", "cà phê đá xay thạch", "phin freeze bao nhieu"],
       "responses": [
-        "🥤 Classic Phin Freeze:\n- Size M: 55.000đ\n- Size L: 65.000đ\n\nCà phê phin độc quyền của Highlands được đem đi xay đá, kết hợp hoàn hảo với thạch cà phê giòn dai đậm vị và kem béo."
+        " Classic Phin Freeze:\n- Size M: 55.000đ\n- Size L: 65.000đ\n\nCà phê phin độc quyền của Highlands được đem đi xay đá, kết hợp hoàn hảo với thạch cà phê giòn dai đậm vị và kem béo."
       ]
     },
     {
       "tag": "gia_banh_mi",
       "patterns": ["bánh mì", "giá bánh mì", "bánh mì bao nhiêu tiền", "ở đây có đồ ăn gì không", "bánh mì gà", "bánh mì thịt nướng", "banh mi", "banh my"],
       "responses": [
-        "🥖 Bánh Mì Việt Nam giòn rụm tại Highlands Coffee đồng giá chỉ 19.000đ:\n- Bánh mì Gà Xé Nước Tương (Thơm ngon, đậm đà)\n- Bánh mì Thịt Nướng (Hương vị truyền thống thơm lừng)\n- Bánh mì Xíu Mại (Béo ngậy, dễ ăn)\n\n👉 Bạn có thể gọi theo Combo gồm 1 Bánh Mì + 1 Nước để nhận mức giá ưu đãi tiết kiệm hơn nhé!"
+        " Bánh Mì Việt Nam giòn rụm tại Highlands Coffee đồng giá chỉ 19.000đ:\n- Bánh mì Gà Xé Nước Tương (Thơm ngon, đậm đà)\n- Bánh mì Thịt Nướng (Hương vị truyền thống thơm lừng)\n- Bánh mì Xíu Mại (Béo ngậy, dễ ăn)\n\n👉 Bạn có thể gọi theo Combo gồm 1 Bánh Mì + 1 Nước để nhận mức giá ưu đãi tiết kiệm hơn nhé!"
       ]
     },
     {
       "tag": "gia_bac_xiu",
       "patterns": ["giá bạc xỉu", "bạc xỉu bao nhiêu", "bạc xỉu giá", "bac xiu"],
       "responses": [
-        "☕ Bạc Xỉu Đá:\n- Size M: 45.000đ\n- Size L: 52.000đ\n\nThức uống tôn vinh phần sữa nhiều hơn cà phê. Vị ngọt béo chủ đạo hòa chút đắng nhẹ, rất phù hợp cho những ai muốn tỉnh táo nhưng không quen uống cà phê quá đậm."
+        " Bạc Xỉu Đá:\n- Size M: 45.000đ\n- Size L: 52.000đ\n\nThức uống tôn vinh phần sữa nhiều hơn cà phê. Vị ngọt béo chủ đạo hòa chút đắng nhẹ, rất phù hợp cho những ai muốn tỉnh táo nhưng không quen uống cà phê quá đậm."
       ]
     },
     {
       "tag": "gia_cappuccino",
       "patterns": ["giá cappuccino", "cappuccino bao nhiêu", "cappuccino giá", "capu"],
       "responses": [
-        "☕ Cappuccino chuẩn vị Ý:\n- Size M: 55.000đ\n- Size L: 65.000đ\n\nSự kết hợp tinh tế giữa một shot Espresso đậm đặc, sữa nóng và lớp bọt sữa (foam) dày mịn béo ngậy trên bề mặt."
+        " Cappuccino chuẩn vị Ý:\n- Size M: 55.000đ\n- Size L: 65.000đ\n\nSự kết hợp tinh tế giữa một shot Espresso đậm đặc, sữa nóng và lớp bọt sữa (foam) dày mịn béo ngậy trên bề mặt."
       ]
     },
     {
       "tag": "gia_latte",
       "patterns": ["giá latte", "latte bao nhiêu", "latte giá", "cafe latte"],
       "responses": [
-        "☕ Latte béo mịn nhẹ nhàng:\n- Size M: 55.000đ\n- Size L: 65.000đ\n\nNhiều sữa nóng hơn Cappuccino, vị béo ngậy lấn át vị đắng, cực kỳ êm dịu và dễ uống đối với người mới bắt đầu."
+        " Latte béo mịn nhẹ nhàng:\n- Size M: 55.000đ\n- Size L: 65.000đ\n\nNhiều sữa nóng hơn Cappuccino, vị béo ngậy lấn át vị đắng, cực kỳ êm dịu và dễ uống đối với người mới bắt đầu."
       ]
     },
     {
       "tag": "gia_americano",
       "patterns": ["giá americano", "americano bao nhiêu", "americano giá", "ame"],
       "responses": [
-        "☕ Americano thanh tao:\n- Size M: 49.000đ\n- Size L: 55.000đ\n\nEspresso đậm đặc pha loãng với nước nóng, mang lại vị đắng nhẹ, thanh khiết mà vẫn giữ trọn mùi thơm nồng nàn nguyên bản của hạt cà phê."
+        " Americano thanh tao:\n- Size M: 49.000đ\n- Size L: 55.000đ\n\nEspresso đậm đặc pha loãng với nước nóng, mang lại vị đắng nhẹ, thanh khiết mà vẫn giữ trọn mùi thơm nồng nàn nguyên bản của hạt cà phê."
       ]
     },
     {
       "tag": "gia_tra_oolong",
       "patterns": ["giá trà oolong", "trà oolong bao nhiêu", "oolong giá", "tra oolong"],
       "responses": [
-        "🍵 Trà Oolong Thuần Túy:\n- Size M: 49.000đ\n- Size L: 55.000đ\n\nĐược ủ từ những lá trà Oolong cao cấp chọn lọc, mang hương thơm tự nhiên, vị chát nhẹ đầu lưỡi và hậu ngọt thanh tao dài lâu."
+        " Trà Oolong Thuần Túy:\n- Size M: 49.000đ\n- Size L: 55.000đ\n\nĐược ủ từ những lá trà Oolong cao cấp chọn lọc, mang hương thơm tự nhiên, vị chát nhẹ đầu lưỡi và hậu ngọt thanh tao dài lâu."
       ]
     },
     {
       "tag": "gia_tra_sua",
       "patterns": ["giá trà sữa", "trà sữa bao nhiêu", "trà sữa giá", "tra sua"],
       "responses": [
-        "🧋 Trà Sữa Highlands thơm ngon đồng giá (Size M: 55.000đ | Size L: 65.000đ):\n- Trà Sữa Oolong (Thơm đậm vị trà, béo vừa)\n- Trà Sữa Khoai Môn (Ngọt bùi hương khoai môn tự nhiên)\n\nTrà sữa nhà Highlands được pha từ cốt trà thật kết hợp sữa tươi, ngọt dịu thanh mát không hề bị gắt cổ."
+        " Trà Sữa Highlands thơm ngon đồng giá (Size M: 55.000đ | Size L: 65.000đ):\n- Trà Sữa Oolong (Thơm đậm vị trà, béo vừa)\n- Trà Sữa Khoai Môn (Ngọt bùi hương khoai môn tự nhiên)\n\nTrà sữa nhà Highlands được pha từ cốt trà thật kết hợp sữa tươi, ngọt dịu thanh mát không hề bị gắt cổ."
       ]
     },
     {
       "tag": "thanh_phan_ca_phe",
       "patterns": ["thành phần cà phê", "cà phê làm từ gì", "nguyên liệu cà phê", "cà phê có gì", "thanh phan ca phe"],
       "responses": [
-        "☕ Nguồn gốc & Thành phần Cà Phê Highlands:\n\n100% hạt cà phê được thu hoạch thủ công tại vùng cao nguyên Việt Nam, kết hợp hoàn hảo giữa 2 dòng hạt:\n- Robusta (~70%): Tạo vị đắng đậm đà chuẩn gu Việt và lớp foam dày.\n- Arabica (~30%): Mang đến hương thơm nồng nàn quý phái và vị chua thanh nhẹ.\n\nCà phê được rang xay mộc, cam kết không pha tạp chất hay hóa chất độc hại."
+        " Nguồn gốc & Thành phần Cà Phê Highlands:\n\n100% hạt cà phê được thu hoạch thủ công tại vùng cao nguyên Việt Nam, kết hợp hoàn hảo giữa 2 dòng hạt:\n- Robusta (~70%): Tạo vị đắng đậm đà chuẩn gu Việt và lớp foam dày.\n- Arabica (~30%): Mang đến hương thơm nồng nàn quý phái và vị chua thanh nhẹ.\n\nCà phê được rang xay mộc, cam kết không pha tạp chất hay hóa chất độc hại."
       ]
     },
     {
       "tag": "thanh_phan_tra",
       "patterns": ["thành phần trà", "trà làm từ gì", "nguyên liệu trà oolong", "trà có gì", "thanh phan tra"],
       "responses": [
-        "🍵 Nguyên liệu và thành phần các món Trà:\n\n- Cốt trà: Lá trà Oolong thượng hạng được thu hái từ các nông trường trà nổi tiếng tại Lâm Đồng và Thái Nguyên.\n- Nước cốt quả: Sử dụng syrup chiết xuất trái cây tự nhiên.\n- Topping đi kèm: Trái cây tươi (miếng đào giòn, quả vải mọng nước) cùng thạch dẻo độc quyền chế biến trong ngày."
+        " Nguyên liệu và thành phần các món Trà:\n\n- Cốt trà: Lá trà Oolong thượng hạng được thu hái từ các nông trường trà nổi tiếng tại Lâm Đồng và Thái Nguyên.\n- Nước cốt quả: Sử dụng syrup chiết xuất trái cây tự nhiên.\n- Topping đi kèm: Trái cây tươi (miếng đào giòn, quả vải mọng nước) cùng thạch dẻo độc quyền chế biến trong ngày."
       ]
     },
     {
       "tag": "cong_dung_ca_phe",
       "patterns": ["uống cà phê có lợi gì", "cà phê có tác dụng gì", "công dụng cà phê", "cà phê tốt không", "cong dung ca phe"],
       "responses": [
-        "☕ Lợi ích tuyệt vời từ việc thưởng thức Cà Phê điều độ:\n\n✅ Tỉnh táo, tăng tập trung làm việc nhờ hàm lượng Caffeine tự nhiên.\n✅ Tăng tốc độ trao đổi chất, hỗ trợ đốt cháy mỡ thừa.\n✅ Chứa hàm lượng chất chống oxy hóa cao, bảo vệ tế bào.\n\n⚠️ Lời khuyên: Tránh uống lúc bụng quá đói và không nên uống quá 3 ly mỗi ngày bạn nhé!"
+        " Lợi ích tuyệt vời từ việc thưởng thức Cà Phê điều độ:\n\n✅ Tỉnh táo, tăng tập trung làm việc nhờ hàm lượng Caffeine tự nhiên.\n✅ Tăng tốc độ trao đổi chất, hỗ trợ đốt cháy mỡ thừa.\n✅ Chứa hàm lượng chất chống oxy hóa cao, bảo vệ tế bào.\n\n⚠️ Lời khuyên: Tránh uống lúc bụng quá đói và không nên uống quá 3 ly mỗi ngày bạn nhé!"
       ]
     },
     {
       "tag": "cong_dung_tra",
       "patterns": ["uống trà có lợi gì", "trà có tác dụng gì", "công dụng trà", "trà oolong tốt không", "trà tốt không", "cong dung tra"],
       "responses": [
-        "🍵 Công dụng tuyệt vời từ các dòng Trà Highlands:\n\n✅ Chất Polyphenol trong trà Oolong giúp chống lão hóa hiệu quả.\n✅ Hỗ trợ giảm cholesterol, rất tốt cho sức khỏe tim mạch.\n✅ Giúp thư giãn tinh thần, giảm căng thẳng (stress) sau giờ làm việc.\n✅ Thanh nhiệt, giải độc cơ thể cực tốt trong những ngày nắng nóng."
+        " Công dụng tuyệt vời từ các dòng Trà Highlands:\n\n✅ Chất Polyphenol trong trà Oolong giúp chống lão hóa hiệu quả.\n✅ Hỗ trợ giảm cholesterol, rất tốt cho sức khỏe tim mạch.\n✅ Giúp thư giãn tinh thần, giảm căng thẳng (stress) sau giờ làm việc.\n✅ Thanh nhiệt, giải độc cơ thể cực tốt trong những ngày nắng nóng."
       ]
     },
     {
       "tag": "goi_y_sang",
       "patterns": ["uống gì buổi sáng", "gợi ý đồ uống buổi sáng", "sáng nên uống gì", "đồ uống cho buổi sáng", "uong gi buoi sang"],
       "responses": [
-        "Chào buổi sáng! Highlands gợi ý combo nạp năng lượng cho bạn nhé:\n\n1. ☕ Phin Sữa Đá hoặc Bạc Xỉu – Thơm ngon, tỉnh táo tức thì để bắt đầu công việc.\n2. 🥖 Thêm 1 chiếc Bánh Mì Gà Xé hoặc Thịt Nướng giòn rụm là đủ dinh dưỡng cho cả buổi sáng.\n\nChúc bạn có một ngày làm việc thật hiệu quả!"
+        " Chào buổi sáng! Highlands gợi ý combo nạp năng lượng cho bạn nhé:\n\n1.  Phin Sữa Đá hoặc Bạc Xỉu – Thơm ngon, tỉnh táo tức thì để bắt đầu công việc.\n2.  Thêm 1 chiếc Bánh Mì Gà Xé hoặc Thịt Nướng giòn rụm là đủ dinh dưỡng cho cả buổi sáng.\n\nChúc bạn có một ngày làm việc thật hiệu quả!"
       ]
     },
     {
       "tag": "goi_y_nong",
       "patterns": ["uống gì cho mát", "trời nóng uống gì", "gợi ý đồ uống mát", "đồ uống giải nhiệt", "uống gì mùa hè", "uong gi cho mat"],
       "responses": [
-        "Trời nóng nực thế này, giải nhiệt ngay với menu mát lạnh nhà Highlands nào:\n\n1. 🍑 Trà Thạch Đào hoặc Trà Thạch Vải – Vị trà thanh mát, thạch giòn sần sật cực sảng khoái.\n2. 🥤 Freeze Trà Xanh hoặc Freeze Chocolate – Đá xay mát lạnh mịn màng đập tan cơn nóng.\n\nBạn muốn chốt order món nào để Highlands làm ngay chuẩn bị giao nào?"
+        " Trời nóng nực thế này, giải nhiệt ngay với menu mát lạnh nhà Highlands nào:\n\n1.  Trà Thạch Đào hoặc Trà Thạch Vải – Vị trà thanh mát, thạch giòn sần sật cực sảng khoái.\n2.  Freeze Trà Xanh hoặc Freeze Chocolate – Đá xay mát lạnh mịn màng đập tan cơn nóng.\n\nBạn muốn chốt order món nào để Highlands làm ngay chuẩn bị giao nào?"
       ]
     },
     {
       "tag": "goi_y_lam_viec",
       "patterns": ["uống gì khi làm việc", "đồ uống khi học bài", "uống gì tập trung", "uống gì khi mệt", "uong gi chay deadline"],
       "responses": [
-        "💻 Đang chạy deadline hoặc cần tập trung học bài? Chọn ngay gu này nhé:\n\n1. ☕ Americano – Đắng nhẹ, thanh mát, ít calo giúp đầu óc tỉnh táo đỉnh cao.\n2. 🥛 Phandi Hạnh Nhân / Kem Sữa – Vừa có chút caffeine vừa có vị béo ngọt giúp nạp năng lượng sáng tạo.\n3. ☕ Cappuccino – Nhâm nhi bọt kem béo mịn, khơi nguồn cảm hứng làm việc."
+        " Đang chạy deadline hoặc cần tập trung học bài? Chọn ngay gu này nhé:\n\n1.  Americano – Đắng nhẹ, thanh mát, ít calo giúp đầu óc tỉnh táo đỉnh cao.\n2.  Phandi Hạnh Nhân / Kem Sữa – Vừa có chút caffeine vừa có vị béo ngọt giúp nạp năng lượng sáng tạo.\n3.  Cappuccino – Nhâm nhi bọt kem béo mịn, khơi nguồn cảm hứng làm việc."
       ]
     },
     {
       "tag": "gio_mo_cua",
       "patterns": ["giờ mở cửa", "mấy giờ mở cửa", "highlands mở cửa lúc mấy giờ", "giờ hoạt động", "đóng cửa lúc mấy giờ", "gio mo cua"],
       "responses": [
-        "🕐 Giờ hoạt động chuẩn của các cửa hàng Highlands Coffee:\n\n- Ngày thường (Thứ 2 – Thứ 6): 07:00 – 22:00\n- Cuối tuần (Thứ 7 – Chủ Nhật): 07:00 – 23:00\n\n⚠️ Lưu ý: Một số cửa hàng tại các trung tâm thương mại hoặc tòa nhà văn phòng có thể đóng/mở cửa theo giờ của tòa nhà. Bạn có thể check chính xác trên Google Maps nhé!"
+        " Giờ hoạt động chuẩn của các cửa hàng Highlands Coffee:\n\n- Ngày thường (Thứ 2 – Thứ 6): 07:00 – 22:00\n- Cuối tuần (Thứ 7 – Chủ Nhật): 07:00 – 23:00\n\n⚠️ Lưu ý: Một số cửa hàng tại các trung tâm thương mại hoặc tòa nhà văn phòng có thể đóng/mở cửa theo giờ của tòa nhà. Bạn có thể check chính xác trên Google Maps nhé!"
       ]
     },
     {
@@ -217,35 +217,35 @@
       "tag": "size_do_uong",
       "patterns": ["size đồ uống", "có size gì", "medium large là bao nhiêu", "dung tích các size", "size m l là bao nhiêu ml", "co size gi"],
       "responses": [
-        "📏 Quy định về size ly tại Highlands Coffee:\n\n- Size M (Medium - Vừa): Dung tích khoảng 350ml, thích hợp thưởng thức vừa vặn.\n- Size L (Large - Lớn): Dung tích khoảng 500ml, cực đã cho những buổi ngồi lâu buôn chuyện hoặc làm việc.\n\n(*Mẹo nhỏ: Hầu hết các món chỉ chênh nhau từ 6k - 10k để lên size L lớn hơn rất nhiều đó ạ!)"
+        " Quy định về size ly tại Highlands Coffee:\n\n- Size M (Medium - Vừa): Dung tích khoảng 350ml, thích hợp thưởng thức vừa vặn.\n- Size L (Large - Lớn): Dung tích khoảng 500ml, cực đã cho những buổi ngồi lâu buôn chuyện hoặc làm việc.\n\n(*Mẹo nhỏ: Hầu hết các món chỉ chênh nhau từ 6k - 10k để lên size L lớn hơn rất nhiều đó ạ!)"
       ]
     },
     {
       "tag": "tuy_chon_them",
       "patterns": ["có thêm topping không", "thêm trân châu được không", "tùy chọn thêm", "có đá không đường không", "ít ngọt được không", "them topping"],
       "responses": [
-        "🎛️ Bạn hoàn toàn có thể tự do điều chỉnh ly nước theo sở thích cá nhân:\n\n✅ Gia giảm: Chọn Ít ngọt / Không ngọt hoặc Ít đá / Không đá hoàn toàn miễn phí.\n✅ Topping thêm cực ngon đồng giá +10.000đ:\n   - Thạch Đào / Thạch Vải / Thạch Cà Phê / Thạch Trà Xanh.\n   - Trân Châu Trắng / Trân Châu Đen.\n   - Lớp Kem Béo (Whipping Cream): +10.000đ.\n   - Lớp Kem Cheese đặc sánh béo ngậy: +15.000đ."
+        " Bạn hoàn toàn có thể tự do điều chỉnh ly nước theo sở thích cá nhân:\n\n✅ Gia giảm: Chọn Ít ngọt / Không ngọt hoặc Ít đá / Không đá hoàn toàn miễn phí.\n✅ Topping thêm cực ngon đồng giá +10.000đ:\n   - Thạch Đào / Thạch Vải / Thạch Cà Phê / Thạch Trà Xanh.\n   - Trân Châu Trắng / Trân Châu Đen.\n   - Lớp Kem Béo (Whipping Cream): +10.000đ.\n   - Lớp Kem Cheese đặc sánh béo ngậy: +15.000đ."
       ]
     },
     {
       "tag": "dat_hang",
       "patterns": ["đặt hàng online", "order online", "giao hàng tận nơi", "có giao hàng không", "đặt qua app", "dat hang"],
       "responses": [
-        "📱 Đặt hàng Highlands Coffee giao tận nơi siêu tốc bằng các cách sau:\n\n1. Đặt trực tiếp qua **App Highlands Coffee** để tích điểm đổi quà và nhận vô vàn mã giảm giá thành viên.\n2. Đặt qua các ứng dụng giao đồ ăn quen thuộc: **GrabFood, ShopeeFood, Baemin, BeFood** (Tìm kiếm cửa hàng Highlands gần nhất).\n3. Truy cập đặt hàng tại Website chính thức: highlandscoffee.com.vn"
+        " Đặt hàng Highlands Coffee giao tận nơi siêu tốc bằng các cách sau:\n\n1. Đặt trực tiếp qua **App Highlands Coffee** để tích điểm đổi quà và nhận vô vàn mã giảm giá thành viên.\n2. Đặt qua các ứng dụng giao đồ ăn quen thuộc: **GrabFood, ShopeeFood, Baemin, BeFood** (Tìm kiếm cửa hàng Highlands gần nhất).\n3. Truy cập đặt hàng tại Website chính thức: highlandscoffee.com.vn"
       ]
     },
     {
       "tag": "highlands_la_gi",
       "patterns": ["highlands coffee là gì", "highlands coffee ở đâu", "giới thiệu highlands", "highlands coffee là của nước nào", "gioi thieu highlands"],
       "responses": [
-        "☕ Đôi nét tự hào về Highlands Coffee:\n\nĐược thành lập từ năm 1999, Highlands Coffee bắt nguồn từ tình yêu vô hạn với hạt cà phê Việt Nam. Trải qua hơn 20 năm phát triển, Highlands tự hào trở thành chuỗi cửa hàng cà phê lớn nhất Việt Nam, nơi kết hợp hài hòa giữa nét văn hóa truyền thống xứ sở và nhịp sống hiện đại. 🇻🇳✨"
+        " Đôi nét tự hào về Highlands Coffee:\n\nĐược thành lập từ năm 1999, Highlands Coffee bắt nguồn từ tình yêu vô hạn với hạt cà phê Việt Nam. Trải qua hơn 20 năm phát triển, Highlands tự hào trở thành chuỗi cửa hàng cà phê lớn nhất Việt Nam, nơi kết hợp hài hòa giữa nét văn hóa truyền thống xứ sở và nhịp sống hiện đại. 🇻🇳"
       ]
     },
     {
       "tag": "khong_hieu",
       "patterns": [],
       "responses": [
-        "Xin lỗi bạn nha, câu này nằm ngoài tầm hiểu biết của mình rồi Bạn có thể thử hỏi mình về:\n- Giá các món (Ví dụ: 'Phanti hạnh nhân bao nhiêu', 'Giá trà thạch đào')\n- Thực đơn (Ví dụ: 'Cho xem menu', 'Có bánh mì không')\n- Lợi ích đồ uống hoặc thời gian mở cửa...\n\nHighlands luôn sẵn sàng giải đáp lại giúp bạn nè! ☕"
+        "Xin lỗi bạn nha, câu này nằm ngoài tầm hiểu biết của mình rồi Bạn có thể thử hỏi mình về:\n- Giá các món (Ví dụ: 'Phanti hạnh nhân bao nhiêu', 'Giá trà thạch đào')\n- Thực đơn (Ví dụ: 'Cho xem menu', 'Có bánh mì không')\n- Lợi ích đồ uống hoặc thời gian mở cửa...\n\nHighlands luôn sẵn sàng giải đáp lại giúp bạn nè! "
       ]
     }
   ]
