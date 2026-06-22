@@ -82,14 +82,7 @@ git clone https://github.com/thuong2910/highlands-chatbot.git
 cd highlands-chatbot
 ```
 
-### Bước 2 — Tạo virtual environment (khuyến nghị)
-
-```bash
-python -m venv venv
-source venv/bin/activate      # Windows: venv\Scripts\activate
-```
-
-### Bước 3 — Cài đặt thư viện
+### Bước 2 — Cài đặt thư viện
 
 ```bash
 pip install -r requirements.txt
